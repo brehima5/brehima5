@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Thierno Barry 👋
 
-<!--
-**brehima5/brehima5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Data Analytics student
+- Skilled in Python, SQL, Tableau, and Power BI
+- Passionate about agriculture and technology
+- Interested in sports analytics and data science
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Pandas
+- NumPy
+- Tableau
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- NYC Public School Analytics Project
+- Sports Analytics Portfolio
+- Spotify API Data Project
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/your-linkedin
