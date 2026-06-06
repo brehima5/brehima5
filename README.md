@@ -1,15 +1,12 @@
 # I'm a Data Slayer
 
 ## About Me
-- Data Analytics student
-- Skilled in Python, SQL, Tableau, and Power BI
-- Passionate about agriculture and technology
-- Interested in sports analytics and data science
+Thieno Barry
 
 ## Skills
-<h2>🛠️ Tech Stack</h2>
+<h2> Tech Stack</h2>
 
-<p align="left">
+<p align="center">
   <!-- Data manipulation & processing -->
   <img src="https://img.shields.io/badge/Python-3B6EA8?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-1B0A5E?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -21,16 +18,17 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
-<p align="left">
+<p align="center">
   <!-- Dev tools & workflow -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
 </p>
 
-<p align="left">
+<p align="center">
   <!-- Data visualization -->
   <img src="https://img.shields.io/badge/Matplotlib-1F5A89?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-3E75A8?style=for-the-badge&logoColor=white" />
