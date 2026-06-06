@@ -1,7 +1,6 @@
 # I'm a Data Slayer
 
-## About Me
-Thieno Barry
+Passionate Data Analyst skilled in SQL, Python, Data Modeling, and Data Visualization. Transforming data into actionable insights through strong storytelling.
 
 ## Skills
 <h2> Tech Stack</h2>
