@@ -1,4 +1,4 @@
-# I'm a Data Slayer
+# <p align="center">  👋🏾 Hi, I'm Thierno Barry </p>
 
 Passionate Data Analyst skilled in SQL, Python, Data Modeling, and Data Visualization. Transforming data into actionable insights through strong storytelling.
 
