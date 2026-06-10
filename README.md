@@ -1,8 +1,16 @@
-# <p align="center">  👋🏾 Hi, I'm Thierno Barry </p>
+<h1 align="center">👋🏾 Hi, I'm Thierno Barry</h1>
 
+<p align="center">
+Data Analyst
+</p>
+
+<p align="center">
 Data Analyst passionate about transforming raw data into meaningful insights. Experienced in data extraction, modeling, cleaning, and statistical analysis to support evidence-based decision-making. I enjoy solving complex problems with data and building reliable analytical workflows.
+</p>
 
-<h2> <p align="center"> Tech Stack </p> </h2>
+---
+
+<h2 align="center"> Tech Stack</h2>
 
 <p align="center">
   <!-- Data manipulation & processing -->
@@ -17,7 +25,7 @@ Data Analyst passionate about transforming raw data into meaningful insights. Ex
 </p>
 
 <p align="center">
-  <!-- Dev tools & workflow -->
+  <!-- Development & workflow -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
@@ -34,5 +42,21 @@ Data Analyst passionate about transforming raw data into meaningful insights. Ex
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
-<h2> <p align="center"> Connect with me </p> </h2>
-LinkedIn: https://www.linkedin.com/in/thierno-barry-analyst/
+---
+
+<h2 align="center">📂 Featured Projects</h2>
+
+<p align="center">
+  
+[Shaping NYC College and Career Readiness](https://github.com/brehima5/Shaping_NYC_College_and_Career_Readiness)
+</p>
+
+---
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thierno-barry-analyst/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
