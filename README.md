@@ -35,4 +35,4 @@ Data Analyst passionate about transforming raw data into meaningful insights. Ex
 </p>
 
 <h2> <p align="center"> Connect with me </p> </h2>
-- LinkedIn: https://www.linkedin.com/in/thierno-barry-analyst/
+LinkedIn: https://www.linkedin.com/in/thierno-barry-analyst/
