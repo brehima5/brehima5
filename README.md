@@ -2,8 +2,7 @@
 
 Passionate Data Analyst skilled in SQL, Python, Data Modeling, and Data Visualization. Transforming data into actionable insights through strong storytelling.
 
-## Skills
-<h2> Tech Stack</h2>
+<h2> <p align="center"> Tech Stack </p> </h2>
 
 <p align="center">
   <!-- Data manipulation & processing -->
@@ -35,10 +34,5 @@ Passionate Data Analyst skilled in SQL, Python, Data Modeling, and Data Visualiz
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
-## Current Projects
-- Reshaping College and Career Readiness
-- IT Incident Analysis
-- Spotify API Data Project
-
-## Connect With Me
+<h2> <p align="center"> Connect with me </p> </h2>
 - LinkedIn: https://www.linkedin.com/in/thierno-barry-analyst/
