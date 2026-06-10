@@ -1,6 +1,6 @@
 # <p align="center">  👋🏾 Hi, I'm Thierno Barry </p>
 
-Passionate Data Analyst skilled in SQL, Python, Data Modeling, and Data Visualization. Transforming data into actionable insights through strong storytelling.
+Data Analyst passionate about transforming raw data into meaningful insights. Experienced in data extraction, modeling, cleaning, and statistical analysis to support evidence-based decision-making. I enjoy solving complex problems with data and building reliable analytical workflows.
 
 <h2> <p align="center"> Tech Stack </p> </h2>
 
