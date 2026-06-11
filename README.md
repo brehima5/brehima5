@@ -7,7 +7,7 @@ Data Analyst
 <i>I am always doing what I cannot do yet, in order to learn how to do it.</i>
 </p> 
 <p align="center">
-When I explore a new dataset, I don't stop at what happened. If I can't explain why and how it happened, my job isn't finished. As a data analyst, I enjoy uncovering hidden stories in data and turning them into clear visualizations, helping stakeholders avoid the headaches of digging through long, messy spreadsheets. I don't just find insights—I make sure the data behind them is accurate, reliable, and trustworthy.
+When I explore a new dataset, I don't stop at what happened. If I can't explain why and how it happened, my job isn't finished. As a data analyst, I enjoy uncovering hidden stories in data and turning them into clear visualizations, helping stakeholders avoid the headaches of digging through long, messy spreadsheets. I don't just find insights. I make sure the data behind them is accurate, reliable, and trustworthy.
 </p>
 
 ---
