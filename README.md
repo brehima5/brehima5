@@ -51,8 +51,12 @@ When I explore a new dataset, I don't stop at what happened. If I can't explain 
 <p align="center">
   
 [Shaping NYC College and Career Readiness](https://github.com/brehima5/Shaping_NYC_College_and_Career_Readiness)
-</p>
 
+[How NYC's Waste Collection Quietly Changed Shape](https://public.tableau.com/app/profile/thierno.barry7757/viz/NYCWasteCollectionAnalysis/Dashboard2)
+
+[Predicting NYC's Recycling Performance](https://github.com/brehima5/nyc-recycling-performance-predictor--expanded)
+
+</p>
 ---
 
 <h2 align="center">🤝 Connect With Me</h2>
